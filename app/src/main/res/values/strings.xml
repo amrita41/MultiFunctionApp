@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MultiTasker</string>
+    -<string-array name="names">
+    <item>Jiyein_Kyun</item>
+    <item>Lag_Jaa_Gale</item>
+    <item>LoseYourself</item>
+    <item>Alone</item>
+    <item>BlankSpace</item>
+    <item>Despacito</item>
+    <item>Maula</item>
+</string-array>
+</resources>
